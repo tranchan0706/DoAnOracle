@@ -1,0 +1,18 @@
+______________HÓA ĐƠN______________
+-------Thông Tin-------
+Mã HD: HD006
+Số Phòng: P003
+Mã Khách hàng: KH03
+Số Ngày Thuê: 18
+Giá Phòng: 1000000vnđ
+Loại Khách: BINH THUONG
+-------Tổng Tiền-------
+Tiền Dịch Vụ: 1500000vnđ
+Tiền Phòng: 18000000vnđ
+Giảm Giá: 0vnđ
+=> Tổng Thành Tiền: 19600000vnđ
+
+
+
+
+
